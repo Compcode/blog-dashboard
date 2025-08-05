@@ -1,0 +1,12 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 1.2em;
+    margin-bottom: 1em;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
